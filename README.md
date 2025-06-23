@@ -36,6 +36,8 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" alt="Python logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" alt="C# logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="52" alt=".NET logo" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="52" alt="Blazor logo" />
         </td>
     </tr>
     <tr>
@@ -48,6 +50,7 @@
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" alt="Linux logo" />
         </td>
     </tr>
 </table>
