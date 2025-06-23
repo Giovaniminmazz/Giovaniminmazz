@@ -1,7 +1,7 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
   <!-- Typing Text -->
 <p align="center">
