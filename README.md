@@ -33,11 +33,11 @@
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
           <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
           <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" alt="Python logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" alt="C# logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="52" alt=".NET logo" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="52" alt="Blazor logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
         </td>
     </tr>
     <tr>
