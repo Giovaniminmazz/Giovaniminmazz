@@ -32,7 +32,6 @@
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
           <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
-          <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
           <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" alt="Python logo" />
@@ -47,7 +46,6 @@
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
         </td>
