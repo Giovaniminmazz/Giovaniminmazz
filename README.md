@@ -66,14 +66,7 @@
   </span>
 </p>
 
-### 📊 Profile contribution
 
-> 3D Contrib
-
-<div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
 
 > Contribution Graph
 
