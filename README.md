@@ -4,7 +4,7 @@
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F79619&random=true&width=435&lines=%3E+I'm+a+Pentester+and+programmer)](https://git.io/typing-svg)">
 </p>
 
   <!-- Profile Picture -->
